@@ -1,0 +1,1 @@
+Automatski testovi su smješteni u folderu SkyScannerFlightSearchTest/src/test/java, mogu se pokrenuti na mvn clean install ili rucno pokretanjem klase
